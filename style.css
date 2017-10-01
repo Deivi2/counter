@@ -1,0 +1,13 @@
+*{
+    font-family: 'Luckiest Guy', sans-serif;
+}
+.container{
+    text-align: center;
+}
+.display{
+    font-weight: 300;
+    margin: 40px;
+}
+label{
+    display: block;
+}
